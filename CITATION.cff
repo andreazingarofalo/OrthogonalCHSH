@@ -8,6 +8,7 @@ title: "Notebooks for Master's Thesis on Quantum Correlations"
 version: 2.0.4
 date-released: 2025-07-07
 url: "https://github.com/andreazingarofalo/OrthogonalCHSH"
+doi: "10.5281/zenodo.15824241"
 preferred-citation:
   type: misc
   authors:
