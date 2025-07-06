@@ -9,7 +9,7 @@ version: 2.0.4
 date-released: 2025-07-07
 url: "https://github.com/andreazingarofalo/OrthogonalCHSH"
 preferred-citation:
-  type: thesis
+  type: misc
   authors:
   - family-names: "Zingarofalo"
     given-names: "Andrea"
