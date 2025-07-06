@@ -1,23 +1,19 @@
 cff-version: 1.2.0
 message: "If you use this software or refer to the results, please cite it as below."
+authors:
+- family-names: "Zingarofalo"
+  given-names: "Andrea"
+  orcid: "https://orcid.org/0009-0001-8018-8933"
 title: "Notebooks for Master's Thesis on Quantum Correlations"
-version: "1.0"
+version: 2.0.4
 date-released: 2025-07-07
 url: "https://github.com/andreazingarofalo/OrthogonalCHSH"
-doi: "10.5281/zenodo.1234567"  # Replace with your actual Zenodo DOI if available
-
-authors:
+preferred-citation:
+  type: thesis
+  authors:
   - family-names: "Zingarofalo"
     given-names: "Andrea"
     orcid: "https://orcid.org/0009-0001-8018-8933"
-
-preferred-citation:
-  type: thesis
+  month: jul
   title: "Exploring the boundaries of quantum correlations: Bell inequalities, convex duality and self-testing"
-  author:
-    - family-names: "Zingarofalo"
-      given-names: "Andrea"
-      orcid: "https://orcid.org/0009-0001-8018-8933"
-  publisher: "University of Salento"
   year: 2025
-  url: "https://github.com/andreazingarofalo/MScThesis"
